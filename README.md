@@ -1,4 +1,4 @@
-# Midi4Text-ortographic-system
+# Midi4Text-orthographic-system
 MIDI fast writing system for English
 
 Dictionaries and manual for the Midi4Text system. 

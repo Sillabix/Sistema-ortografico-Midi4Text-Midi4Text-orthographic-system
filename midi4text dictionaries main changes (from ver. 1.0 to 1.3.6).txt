@@ -3,6 +3,8 @@ MIDI4TEXT Changes in main and brief dictionary
 
 (from 1.3 to 1.3.6 version)
 
+- SCNXue as ^less not mapped in the wordpart dictionary as intended
+
 - corrected wrong syntax in the main dix for the word "and"
 
 - changed the brief for the word "part" in FCNIUuapf ("prat" is a legitimate word!)
@@ -33,7 +35,7 @@ MIDI4TEXT Changes in main and brief dictionary
 
 - changed ^xy = SZNnz in xy^ = SZNnz to write words like "xylophone"
 
-- changed "ea" and "iea" which now are free combinations for special use defined with the characters "‡" and "_"
+- changed "ea" and "iea" which now are free combinations for special use defined with the characters "√†" and "_"
 
 - added a special use for "ea" and "iea" when the 2nd Series is in use to write all the words with 2nd Series + "ea" which couldn't be written with the standard "RXa" and "RXua"
 
@@ -59,7 +61,7 @@ MIDI4TEXT Changes in main and brief dictionary
 
 (from 1.0 to 1.3 version)
 
-- corrected the entry for ìandî
+- corrected the entry for ‚Äúand‚Äù
 	in the main dictionary there was the entry uacf=and, while in the brief dictionary there are the entries FN=and, Rnf =and. No space prefix entry anf={and^} was wrongly written "{and" (there weren't the closing curly bracket and the caret) 
 
 - corrected the brief for "part"

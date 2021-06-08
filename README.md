@@ -1,5 +1,3 @@
-# Midi4Text-orthographic-system
-MIDI fast writing system for English
+# Sistema ortografico Midi4Text / Midi4Text-orthographic-system
 
-Dictionaries and manual for the Midi4Text system. 
-This system permits to write any text faster than with a standard QWERTY keyboard using any commercial music MIDI keyboard.
+Dizionari e manuali sistema Midi4Text / Dictionaries and manual for the Midi4Text system.

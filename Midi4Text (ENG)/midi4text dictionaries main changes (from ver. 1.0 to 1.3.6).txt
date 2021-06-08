@@ -1,0 +1,88 @@
+MIDI4TEXT Changes in main and brief dictionary 
+
+
+(from 1.3 to 1.3.6 version)
+
+- SCNXue as ^less not mapped in the wordpart dictionary as intended
+
+- corrected wrong syntax in the main dix for the word "and"
+
+- changed the brief for the word "part" in FCNIUuapf ("prat" is a legitimate word!)
+
+- introduced CPXIU as the new inter-serial for the characters "qu" (this can avoid several conflicts with the word starting with the characters "cu")
+
+- introduced "zcf" as the new extra-ordinem combination for the ending H (this to avoid several conflicts with the words ending with "ST")
+
+-introduced CXIU as the new interserial for "sch" and changed the previous interserial CXIU=sk in ZXIU=sk
+
+- changed the brief for "about" which is now IUiapf (previously conflicting with "bout", a word and a word part)
+
+- changed the brief for "don't" which is now RIUuienzf (dont is a word part)
+
+- introduced the new interserials "apzc" and "uapzc" for the dypthong "ae" (used a lot in medical and latin words)
+
+- cheanged the combination for the briefs ending in "GN" which is now "nf" (the previous "ns" produced a series of conflicts with the "NG" word endings
+
+- modified briefs for sign (SIuinf) and sign^ (SIinf)
+
+- modified briefs for prefixes audio^ (Uapcs) and auto^ (Uapf)
+
+- changed ^ph = PXI in ph^ = PXI to write words like "phrase" or "phlegm" 
+
+- added prefix momen^=SZPRUen to write words like "momentum", "momentary"
+
+- corrected the brief for "you" which is IU
+
+- changed ^xy = SZNnz in xy^ = SZNnz to write words like "xylophone"
+
+- changed "ea" and "iea" which now are free combinations for special use defined with the characters "à" and "_"
+
+- added a special use for "ea" and "iea" when the 2nd Series is in use to write all the words with 2nd Series + "ea" which couldn't be written with the standard "RXa" and "RXua"
+
+- changed "ia" which is now a free combination for special use defined with the characters "*"
+ 
+- added a special use for "ia" when the 2nd Series is in use to write all the words with 2nd Series + "ou" which couldn't be written with the standard "RXa" and "RXua" (including "ious", "eous", "uous" endings) This acts usually as an ending syllable but can be used also for non ending syllable modifying the syllable division as explained in the manual
+
+- added suffixes Iianz={^iously} and Iian={^iousness
+
+- corrected all the mispelled word beginning with "CK"
+
+- corrected all the mispelled word beginning with "SH"
+
+- corrected definitions for "sty" and "sty^"
+
+- changed the briefs for punctuations ("n" for the full stop was creating too conflicts with words ending with extra "n". They are now the following: "."=NX, ","=ZX, ";"=ZNX, ":"=NXen
+
+-changed the number bar combination which is now "IU" (the "RXI" combination could conflict with some "automatic e" briefs containing the character "o")
+
+- created a new organization for the special dictionaries which are now 3: "briefs" (for standard briefs), "punctuation&command" (for punctuationa and any formatting command), word parts (for prefixes, affixes, suffixes and word part)
+
+
+
+(from 1.0 to 1.3 version)
+
+- corrected the entry for “and”
+	in the main dictionary there was the entry uacf=and, while in the brief dictionary there are the entries FN=and, Rnf =and. No space prefix entry anf={and^} was wrongly written "{and" (there weren't the closing curly bracket and the caret) 
+
+- corrected the brief for "part"
+	"prat" is a legitimate word, so it cannot used for a brief. Mapped "part" as "rpat"
+
+- the word "cue" come out as "que"
+	mapped in the brief dictionary CPUue=cue
+
+- introduced  CXIU for beginning sch^ 
+	also modified the previous CXIU=sk^ in ZXIU=sk^
+
+
+- changed the brief for "about" which now is RIieapf 
+	(^bout" is a word and a word part)
+
+
+- changed SCPuienzf = don't: dont is a word part.  A rarely used one, but it's inconsistent Now is RIUuienzf = don't 
+
+
+- introduced prefix SIinf = sign^ 
+	also if for a few words (signpost, signposts, signboard, signboards, signposted, signposting), it's a good rule of the thumb to introduce also the prefix form for any brief which acts also as a suffix whenever it doesn't conflict with anything
+
+-  the brief for 'you' is Iu not IU as written 
+	corrected in the brief dictionary: it was intended to be IU, so I=I and you=IU

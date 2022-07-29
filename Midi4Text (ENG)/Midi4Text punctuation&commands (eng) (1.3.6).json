@@ -1,14 +1,13 @@
 {
 "CPpc": "{!}",
-"FCf": "{-}",
+"FCf": "{^-^}",
 "FNnf": "{(^}",
 "FZNX": "{^\t^}",
 "FZNnzf": "{^)}",
 "FZzf": "{\"^}",
-"NXen": "{;}",
-"SCPc": "{_}",
+"SCPc": "{^_^}",
 "SPps": "{?}",
-"SRIc": "{/}",
+"SRIc": "{^}/{^}",
 "NXen": "{:}",
 "ZNX": "{;}",
 "ZNnz": "{^\"}",
@@ -18,6 +17,6 @@
 "nzf": "{^\n^}{-|}",
 "ZX": "{,}",
 "zcs": "{-|}",
-"FSCZPNRXIUuieanpzcsf": "Midi4Text by F. Angeloni & P.A. Michela Zucco (licensed under CC BY-SA 4.0 International on 2019-2020)",
+"FSCZPNRXIUuieanpzcsf": "Midi4Text by F. Angeloni & P.A. Michela Zucco (licensed under CC BY-SA 4.0 International on 2019-2022)",
 "PXIUnzf": "%"
 }
